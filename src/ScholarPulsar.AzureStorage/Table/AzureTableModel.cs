@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ScholarPulsar.AzureStorage.Table
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class AzureTableModel
     {
         public AzureTableModel() { }
